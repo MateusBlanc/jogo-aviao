@@ -12,7 +12,7 @@ body {
   
   #menu {
     text-align: center;
-    background-image: url('imagens/tela-menu.png'); /* Caminho relativo para a pasta do projeto */
+    background-image: url('/imagens/tela-menu.png');
     background-size: cover;
     background-position: center;
     width: 100%;
@@ -26,7 +26,7 @@ body {
     background-color: #007bff;
     color: white;
     padding: 15px 30px;
-    margin: 10px;
+    margin: 15px;
     border: none;
     cursor: pointer;
     font-size: 18px;
